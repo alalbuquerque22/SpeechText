@@ -8,12 +8,12 @@ Podemos aplicar em melhor acessibilidade para seu App, App de tradução de text
 
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
- 
+ <img src="https://github.com/alalbuquerque22/SpeechText/blob/main/iphone-wobc.png" width="400px">
 </div>
 
 ### Code Screenshot
 <div style="display: flex; flex-direction: 'row';">
- 
+ <img src="https://github.com/alalbuquerque22/SpeechText/blob/main/Captura%20de%20tela%20de%202021-02-11%2011-27-41.png" width="400px">
 </div>
 
 
